@@ -1,0 +1,1 @@
+savedcmd_/home/lailamansour/source_code/producer_consumer.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/lailamansour/source_code/producer_consumer.ko /home/lailamansour/source_code/producer_consumer.o /home/lailamansour/source_code/producer_consumer.mod.o
