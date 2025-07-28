@@ -1,0 +1,1 @@
+This was a bonus project for killing unnecessary, "Zombie" processes in Ubuntu. Through the command terminal, various files were edited to correctly identify unused proccesss to eliminate while getting the expected outputs. 
